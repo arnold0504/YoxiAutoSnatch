@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YoxiSnatch</string>
+    <string name="accessibility_description">自動偵測Yoxi即時單車資，超過門檻自動搶單</string>
+</resources>
